@@ -50,7 +50,7 @@
 .btn-primary a{
     color: #005FAC;
 }
-.fa-solid{
+.fa-solid.fa-phone{
     color: #005FAC;
     margin-right: 5px;
 }
@@ -63,6 +63,39 @@ main{
 
 .my-failor{
     display: flex;
+    margin-top: 105px;
+    background-color: aliceblue;
+    border-radius: 5px;
+   
 }
-.
 
+img {
+    height: 723px;
+    width: 569px;
+    background-color:;
+}
+.failor-discription{
+   
+    margin-top: 250px;
+}
+.failor-titale{
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 15px;
+}
+.failor-decription{
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin-bottom: 15px;
+}
+.failor-discription1{
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin-left: 20px;
+}
+.fa-solid.fa-xmark{
+    color: red;
+    margin-right: 10px;
+}
