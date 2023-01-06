@@ -99,3 +99,53 @@ img {
     color: red;
     margin-right: 10px;
 }
+
+/*my plane start here*/
+
+.my-plane{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-transform: capitalize;
+    
+    
+}
+.next-pan{
+    display: flex;
+    
+    margin-top: 50px;
+    background-color: aliceblue;
+    border-radius: 5px;
+    text-align: start;
+}
+.plans{
+    
+    margin: 15px;
+}
+.fa-house-laptop{
+    font-size: 50px;
+    margin: 15px;
+    color: #005FAC;
+}
+.fa-code{
+    font-size: 50px;
+    margin: 15px;
+    color: #005FAC;
+}
+.fa-laptop-code{
+    font-size: 50px;
+    margin: 15px;
+    color: #005FAC;
+}
+.fa-person-running{
+    font-size: 50px;
+    margin: 15px;
+    color: #005FAC;
+}
+.plans-titale{
+    margin: 15px;
+    text-align: start;
+}
+.plans p{
+    margin-left: 15px;
+}
