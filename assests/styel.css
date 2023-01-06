@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* header section start here*/
+.header{
+    background: url(../assests/images/banner/banner3.png);
+    height: 100vh;
+    width: 100%;
+    
+}
+.header-row{
+    margin-left: 55%;
+    float: right;
+    margin-top: 20%;
+    margin-right: 15%;
+    text-align: end;
+}
+.header-titale{
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 45px;
+    text-transform: capitalize;
+}
+
+.header-sub-titale{
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 35px;
+}
+.header-discription{
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-bottom: 15px;
+}
+.btn-primary{
+    height: 64px;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    font-weight: 700;
+    font-size: 20px;
+    padding: 20px;
+    border: 0;
+}
+.btn-primary a{
+    color: #005FAC;
+}
+.fa-solid{
+    color: #005FAC;
+    margin-right: 5px;
+}
+
+/*main start here*/
+main{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.my-failor{
+    display: flex;
+}
+.
+
