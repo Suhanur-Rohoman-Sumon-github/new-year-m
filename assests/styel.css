@@ -220,10 +220,17 @@ input{
     padding: 10px;
     margin-bottom: 15px;
     margin-top: 5px;
+    border: 1px solid #FFFFFF;
+    border-radius: 5px;
 }
 .footer-titale1{
     color: #FFFFFF;
     font-size: 25px;
     margin-bottom: 15px;
     text-transform: capitalize;
+}
+.copyright{
+    color: #FFFFFF;
+    font-size: 15px;
+    text-align: center;
 }
